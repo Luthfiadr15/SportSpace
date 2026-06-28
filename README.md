@@ -1,5 +1,50 @@
-# Vue 3 + Vite
+```md
+# 🏟️ SportSpace
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Sistem Reservasi Lapangan Olahraga Berbasis Web menggunakan Vue.js dan JSON Server.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 🚀 Teknologi
+
+- Vue.js 3
+- Vite
+- Vue Router
+- Axios
+- JSON Server
+- Railway
+- Vercel
+
+## 🌐 Demo
+
+### Frontend
+https://sport-space-two.vercel.app/
+
+### Backend API
+https://sportspace-production.up.railway.app
+
+### Source Code
+https://github.com/Luthfiadr15/SportSpace
+
+## 👤 Demo Akun
+
+### Admin
+Email: admin@gmail.com
+
+Password: admin123
+
+### Fitur
+
+- Login & Register
+- Dashboard Admin
+- CRUD Lapangan
+- Booking Lapangan
+- Riwayat Reservasi
+- Update Status Reservasi
+- Role Admin & User
+- Responsive Design
+
+## 👨‍💻 Developer
+
+Muhammad Luthfi Adrian
+
+Teknik Informatika
+```
