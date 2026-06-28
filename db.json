@@ -1,0 +1,57 @@
+{
+  "lapangan": [
+    {
+      "id": "1",
+      "nama": "Mini Soccer A",
+      "jenis": "Mini Soccer",
+      "harga": 150000,
+      "status": "Tersedia"
+    },
+    {
+      "id": "2",
+      "nama": "Futsal A",
+      "jenis": "Futsal",
+      "harga": 120000,
+      "status": "Tersedia"
+    },
+    {
+      "id": "3",
+      "nama": "Badminton A",
+      "jenis": "Badminton",
+      "harga": 50000,
+      "status": "Tersedia"
+    },
+    {
+      "id": "4",
+      "nama": "Padel Court A",
+      "jenis": "Padel",
+      "harga": 250000,
+      "status": "Tersedia"
+    },
+    {
+      "id": "5",
+      "nama": "Voli Indoor A",
+      "jenis": "Voli",
+      "harga": 100000,
+      "status": "Tersedia"
+    }
+  ],
+  "users": [
+    {
+      "nama": "Luthfiii",
+      "email": "luthfi@gmail.com",
+      "password": "1",
+      "role": "user",
+      "id": "OzSFMpcdmgY"
+    },
+    {
+      "id": "admin001",
+      "nama": "Administrator",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "role": "admin"
+    }
+  ],
+  "reservasi": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
