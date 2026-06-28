@@ -34,19 +34,19 @@ const routes = [
     path: "/riwayat",
     component: Riwayat,
   },
-{
-  path: "/admin",
-  component: DashboardAdmin,
-  beforeEnter: () => {
-    const user = JSON.parse(localStorage.getItem("user"));
+  {
+    path: "/admin",
+    component: DashboardAdmin,
+    beforeEnter: () => {
+      const user = JSON.parse(localStorage.getItem("user"));
 
-    if (!user || user.role !== "admin") {
-      return "/login";
-    }
+      if (!user || user.role !== "admin") {
+        return "/login";
+      }
 
-    return true;
+      return true;
+    },
   },
-},
   {
     path: "/:pathMatch(.*)*",
     component: NotFound,
