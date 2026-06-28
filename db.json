@@ -57,6 +57,20 @@
       "password": "123",
       "role": "user",
       "id": "x1_yuHgddBE"
+    },
+    {
+      "nama": "luthfiu",
+      "email": "luthf@gmail.com",
+      "password": "123",
+      "role": "user",
+      "id": "k69ZuzOM6pU"
+    },
+    {
+      "nama": "luthfi",
+      "email": "luthfiii@gmail.com",
+      "password": "123",
+      "role": "user",
+      "id": "sIrcysf-VNU"
     }
   ],
   "reservasi": [
@@ -69,8 +83,32 @@
       "durasi": 1,
       "totalHarga": 150000,
       "catatan": "",
-      "status": "Menunggu",
+      "status": "Disetujui",
       "id": "-0qi_wHAyto"
+    },
+    {
+      "metodePembayaran": "QRIS",
+      "nama": "sa",
+      "lapanganId": "1",
+      "tanggal": "1223-03-12",
+      "jam": "20:00",
+      "durasi": "3",
+      "totalHarga": 450000,
+      "catatan": "",
+      "status": "Disetujui",
+      "id": "zNQh97u0Qrw"
+    },
+    {
+      "metodePembayaran": "QRIS",
+      "nama": "budi",
+      "lapanganId": "3",
+      "tanggal": "2026-06-29",
+      "jam": "21:00",
+      "durasi": 1,
+      "totalHarga": 50000,
+      "catatan": "",
+      "status": "Disetujui",
+      "id": "IyOgrPPdPNs"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
