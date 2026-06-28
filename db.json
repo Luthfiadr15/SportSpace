@@ -50,8 +50,28 @@
       "email": "admin@gmail.com",
       "password": "admin123",
       "role": "admin"
+    },
+    {
+      "nama": "Luthfiii",
+      "email": "luthfi7@gmail.com",
+      "password": "123",
+      "role": "user",
+      "id": "x1_yuHgddBE"
     }
   ],
-  "reservasi": [],
+  "reservasi": [
+    {
+      "metodePembayaran": "QRIS",
+      "nama": "Luthfi",
+      "lapanganId": "1",
+      "tanggal": "2026-12-12",
+      "jam": "20:00",
+      "durasi": 1,
+      "totalHarga": 150000,
+      "catatan": "",
+      "status": "Menunggu",
+      "id": "-0qi_wHAyto"
+    }
+  ],
   "$schema": "./node_modules/json-server/schema.json"
 }
